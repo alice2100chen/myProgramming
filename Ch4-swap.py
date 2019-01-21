@@ -2,6 +2,7 @@
 # 交換陣列中的兩個元素
 # Ch4-swap.py
 # Version 1.1
+#
 num_visitors = [70, 10, 14, 7, 25, 30, 50] #索引0~6代表星期日到六
 print(num_visitors)
 temp = num_visitors[0]                     #把星期日的人數70給temp
